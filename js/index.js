@@ -319,3 +319,10 @@ function generate_cutomPDF() {
 
      doc.save("invoice.pdf");
 }
+
+
+<form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+invoice.pdf
+    <button type="submit">Send</button>
+  </p>
+</form>
